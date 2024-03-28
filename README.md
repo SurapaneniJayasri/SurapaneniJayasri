@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<--
+
 I'm Jayasri, a B.Tech student specializing in Artificial Intelligence and Data Science, with a passion for coding in HTML, CSS, and Python. 
 
 - 🔭 I’m currently working on mastering my skills in AI and data science.
